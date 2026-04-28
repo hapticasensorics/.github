@@ -14,8 +14,8 @@ no workflow changes.
 ## The bottleneck
 
 Agents lose memory between sessions. Multi-agent workflows step
-over each other. You work alongside them spend hours every
-week re-explaining what they're doing and why. 
+over each other. Humans working alongside them spend hours every
+week re-explaining what they’re doing and why.
 
 And sometimes, it's the humans with the memory problem.
 
