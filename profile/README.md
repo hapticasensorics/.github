@@ -17,8 +17,6 @@ Agents lose memory between sessions. Multi-agent workflows step
 over each other. Humans working alongside them spend hours every
 week re-explaining what they’re doing and why.
 
-And sometimes, it's the humans with the memory problem.
-
 Context management is the bottleneck for agentic work. We're
 building the layer underneath.
 
