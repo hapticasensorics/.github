@@ -1,6 +1,6 @@
 # Haptica
 
-**Own your context. An engine for agentic work.**
+**Own your context. A memory engine for agentic work.**
 
 ## 1Context
 
