@@ -9,7 +9,7 @@ builds a living wiki for every project you touch, updates as you
 work, and opens in any browser with a shareable link. Claude Code and Codex connect via MCP. No configuration, no prompts,
 no workflow changes.
 
-→ [haptica.ai](https://haptica.ai)
+[haptica.ai](https://haptica.ai)
 
 ## The bottleneck
 
