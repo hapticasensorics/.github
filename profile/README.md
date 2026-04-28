@@ -1,22 +1,21 @@
 # Haptica
 
-**A context engine for agentic work.**
+**Own your context. An engine for agentic work.**
 
 ## 1Context
 
-Install it, log in, and it passively captures what you work on,
+1Context passively captures what you work on,
 builds a living wiki for every project you touch, updates as you
-work, and opens in any browser with a shareable link. Claude Code,
-Cursor, and Codex connect via MCP. No configuration, no prompts,
+work, and opens in any browser with a shareable link. Claude Code and Codex connect via MCP. No configuration, no prompts,
 no workflow changes.
 
 → [haptica.ai](https://haptica.ai)
 
 ## The bottleneck
 
-AI agents lose memory between sessions. Multi-agent workflows step
-over each other. The humans working alongside them spend hours every
-week re-explaining what they're doing and why.
+Agents lose memory between sessions. Multi-agent workflows step
+over each other. You work alongside them spend hours every
+week re-explaining what they're doing and why. And sometimes the agents are AI too.
 
 Context management is the bottleneck for agentic work. We're
 building the layer underneath.
